@@ -6,7 +6,7 @@ const CONFIG = {
     desc: 'Tao thích mày @@. Mày làm ngy tao nhóo ',
     btnYes: 'Oke',
     btnNo: 'Có cl, t với m chỉ là bạn thoii =))))))',
-    question:'Ơ m đồng ý á =)), oroooo nhưng mà tao trêu mày thôi chứ cúng ta vẫn là bạn chứ',
+    question:'Ơ m đồng ý á =)), nhưng mà tao trêu mày thôi chứ cúng ta vẫn là bạn chứ =))))))',
     btnReply: 'Gửi cho Hieeusu <3',
     reply: 'Không tao nghĩ chúng ta nên làm nguowifii Iuu',
     mess: 'T biết mà🥰. Nhưng chúng ta chỉ là pạn thôi :)))',
