@@ -1,19 +1,16 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
+    introTitle: 'Hí chó quá khứ !!',
+    introDesc: `Tao biết mày đợi t lâu vãi cả cứt ra =)). Thông cảm nhá, khộ mất điện xong rồi t phải chỉnh nhiều lần vcl ấy. À mà dặn trước nhá, trả lời hết xong hãng nhắn tin cho t =))). Có cái hay lắm`,
+    btnIntro: 'Oke',
+    title: 'Mày biết mà. Kể từ lúc tao với mày thân nhau đến giờ, việc gì đến cũng đến =)))',
+    desc: 'Tao thích mày @@. Mày làm ngy tao nhóo ',
+    btnYes: 'Oke',
+    btnNo: 'Có cl, t với m chỉ là bạn thoii =))))))',
+    question:'Ơ m đồng ý á =)), oroooo nhưng mà tao trêu mày thôi chứ cúng ta vẫn là bạn chứ',
+    btnReply: 'Gửi cho Hieeusu <3',
+    reply: 'Không tao nghĩ chúng ta nên làm nguowifii Iuu',
+    mess: 'T biết mà🥰. Nhưng chúng ta chỉ là pạn thôi :)))',
+    messDesc: 'Ra HP đi ăn nhó :))).',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
